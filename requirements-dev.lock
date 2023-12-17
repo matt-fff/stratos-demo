@@ -73,7 +73,7 @@ six==1.16.0
 smmap==5.0.1
 stack-data==0.6.3
 stevedore==5.1.0
-stratos-lib==0.1.0
+stratos-lib==0.1.1rc3
 tomli==2.0.1
 tomlkit==0.12.3
 traitlets==5.14.0
@@ -81,4 +81,5 @@ typing-extensions==4.9.0
 wcwidth==0.2.12
 yarl==1.9.4
 # The following packages are considered to be unsafe in a requirements file:
+pip==23.3.1
 setuptools==69.0.2
